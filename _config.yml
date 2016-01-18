@@ -1,0 +1,14 @@
+layout_spectrum: 0.506111
+typography_spectrum: 0.5815056
+color:
+  saturation: 0.215579
+  lightness: 0.7548491
+  brandStrength: 0.890773
+  rhythmicContrast: 0.5327262
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Pitseed
