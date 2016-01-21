@@ -1,14 +1,28 @@
+name: Pitseed
+favicon: null
 layout_spectrum: 0.506111
 typography_spectrum: 0.5815056
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.215579
-  lightness: 0.7548491
-  brandStrength: 0.890773
-  rhythmicContrast: 0.5327262
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-name: Pitseed
+    - '#ffffff'
+    - '#777a8b'
+    - '#b29e38'
+    - '#252207'
+    - '#f6d56b'
+  brandStrength: 0.75
+  lightness: 0.7548491
+  saturation: 0.1875
+  rhythmicContrast: 0.5
+purpose: []
