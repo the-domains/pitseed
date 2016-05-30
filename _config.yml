@@ -1,29 +1,41 @@
-name: Pitseed
-favicon: null
-layout_spectrum: 0.51022
-typography_spectrum: 0.91211
-title: Chenopodium.org
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.51022
+title: Chenopodium.org
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.1875
+  brandStrength: 0.75
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#1a1c19'
     - '#496e2b'
     - '#9f6f6b'
     - '#9dbe71'
-  brandStrength: 0.75
   lightness: 0.7548491
-  saturation: 0.1875
-  rhythmicContrast: 0.5
 purpose: []
+favicon: null
+name: Pitseed
+typography_spectrum: 0.91211
