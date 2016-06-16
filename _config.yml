@@ -14,7 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Chenopodium.org
+title: The Chenopodium berlandieri Association
 cta:
   domain: null
   bucket: null
