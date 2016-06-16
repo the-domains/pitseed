@@ -1,6 +1,6 @@
-name: Chenopodium
+name: Chenopodium.org
 favicon: null
-layout_spectrum: 0.51022
+layout_spectrum: 0
 typography_spectrum: 0.91211
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#496e2b'
     - '#9f6f6b'
     - '#9dbe71'
-  brandStrength: 0.75
-  lightness: 0.7548491
-  saturation: 0.1875
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
