@@ -1,8 +1,7 @@
+name: Chenopodium
+favicon: null
+layout_spectrum: 0.51022
 typography_spectrum: 0.91211
-opengraph:
-  image: null
-  type: null
-  appId: null
 collections:
   - index:
       path: /
@@ -15,27 +14,28 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.51022
 title: Chenopodium.org
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1875
-  brandStrength: 0.75
-  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#1a1c19'
     - '#496e2b'
     - '#9f6f6b'
     - '#9dbe71'
+  brandStrength: 0.75
   lightness: 0.7548491
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Pitseed
