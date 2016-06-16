@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Chenopodium berlandieri Association]]></title>
-        <description><![CDATA[The Chenopodium berlandieri Association]]></description>
+        <title><![CDATA[Chenopodium.org]]></title>
+        <description><![CDATA[Chenopodium.org]]></description>
         <link>http://chenopodium.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 19:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 19:06:06 GMT</lastBuildDate>
         <atom:link href="http://chenopodium.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chenopodium berlandieri. Lamb's quarters. Goosefoot. One of the most prolific native plants in]]></title>
             <description><![CDATA[<p>Chenopodium berlandieri. Lamb's quarters. Goosefoot. One of the most prolific native plants in North America, now best known as a nuisance weed and wayward cousin of the miracle health food quinoa (Chenopodium quinoa).</p>]]></description>
             <link>http://chenopodium.org/chenopodium-berlandieri-lambs-quarters-goosefoot-one-of/index.html</link>
             <guid isPermaLink="false">811bf1e3-f292-4cb3-9f68-0d2ef1963a6a</guid>
-            <pubDate>Thu, 16 Jun 2016 19:04:19 GMT</pubDate>
+            <pubDate>Thu, 16 Jun 2016 19:06:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
