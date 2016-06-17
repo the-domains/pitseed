@@ -1,11 +1,11 @@
 ---
 description: The weedy cousin of quinoa is ready for a comeback.
-dateModified: '2016-06-17T03:38:50.034Z'
-datePublished: '2016-06-17T03:38:52.609Z'
+dateModified: '2016-06-17T03:38:54.718Z'
+datePublished: '2016-06-17T03:38:56.433Z'
 title: The Domestic Chenopod of North America
 author: []
 sourcePath: _posts/2016-06-17-the-domestic-chenopod-of-north-america.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
