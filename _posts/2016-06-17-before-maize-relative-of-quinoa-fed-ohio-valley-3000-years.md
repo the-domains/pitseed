@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-17T03:27:53.786Z'
+datePublished: '2016-06-17T03:38:52.022Z'
 isBasedOnUrl: >-
   http://www.ohio-forum.com/2015/12/maize-relative-quinoa-fed-ohio-valley-3000-years-ago/
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - berlandieri
 related: []
 author: []
-dateModified: '2016-06-17T03:27:29.151Z'
+dateModified: '2016-06-17T03:38:49.358Z'
 title: 'Before Maize, Relative of Quinoa Fed Ohio Valley 3,000 Years Ago'
 app_links: []
 publisher:
@@ -29,9 +29,9 @@ description: >-
   West State Street to harvest a plant viewed by most Ohioans as a weed. It fed
   Ohio Valley residents more than 3,000 years ago, and it has ...
 inLanguage: en
-starred: false
 sourcePath: >-
   _posts/2016-06-17-before-maize-relative-of-quinoa-fed-ohio-valley-3000-years.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
