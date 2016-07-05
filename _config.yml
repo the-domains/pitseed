@@ -1,7 +1,32 @@
-name: Chenopodium.org
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.91211
+color:
+  brandColors:
+    - '#ffffff'
+    - '#1a1c19'
+    - '#496e2b'
+    - '#9f6f6b'
+    - '#9dbe71'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4ecbf3a-5cfd-4e03-90ad-cfd87885c16e.png
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Chenopodium.org
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/30e549f3-d596-4488-9a39-e6af7fc8e68c.png
 collections:
   - index:
       path: /
@@ -15,27 +40,4 @@ collections:
     permalink:
       path: '/:title/'
 title: Chenopodium.org
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#1a1c19'
-    - '#496e2b'
-    - '#9f6f6b'
-    - '#9dbe71'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
 purpose: []
